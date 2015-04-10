@@ -29,6 +29,9 @@ class Deck():
 
 	def addCard(self, card):
 		return self.cards.append(card)
+	
+	def addToHand(self, hand, numCards)
+		pass
 
 
 
